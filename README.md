@@ -1,2 +1,2 @@
 # gaia-calendar
-A new type of Calendar that fuses Human Era, pagan Sabbaths and days based on celestial bodies
+I'm tired of following the same religious-driven arbitrary calendar, so I've created a new, non-religious-driven arbitrary calendar: the Gaia Calendar.
