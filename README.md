@@ -42,4 +42,4 @@ The word **eneastra** comes from "ene" (nine) and "astra" (star, although more l
 
 Those celestial bodies are, in this order: the Sun, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune and the Moon. So, the nine days of an eneastra are Sungaia, Mergaia, Vengaia, Margaia, Jupgaia, Satgaia, Urgaia, Nepgaia and Moongaia. 
 
-Sungaia, Jupgaia and Moongaia are rest days. That makes it a 3:1 ratio of working to resting days, but we have that little silly rest day in the middle of the eneastra, which might be very needed. So, if you wanted to survive through an eneastra, you would have to work 3 days, rest one day, work another 3 days and then rest 2 days.
+Sungaia, Jupgaia and Moongaia are rest days. That makes it a 3:1 ratio of working to resting days, but we have that little silly rest day in the middle of the eneastra, which might be very needed. So, if you wanted to survive through an eneastra, you would have to work 3 days, rest one day, work another 3 days and then rest 2 days. Better than working for 5 days straight.
